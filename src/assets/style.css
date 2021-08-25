@@ -1,0 +1,77 @@
+.my-aqua {
+  color: #18b4f7;
+}
+
+.my-grey {
+  color: #8e939b;
+}
+
+.my-banner {
+  background: linear-gradient(
+      236.91deg,
+      rgba(0, 0, 0, 0.2) 18.25%,
+      rgba(0, 0, 0, 0) 53.37%
+    ),
+    #f5f7f9;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.my-card {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) !important;
+  border-radius: 150px 20px !important;
+}
+
+.my-title-banner {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 42px;
+  color: #8e939b;
+}
+
+.my-title-banner span {
+  color: #18b4f7;
+}
+
+.my-subtitle-banner {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #8e939b;
+}
+
+.my-right-banner {
+  background: #fffbfb !important;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 15px !important;
+  margin: 0 -100px 100px 100px;
+  z-index: 1;
+  padding: 10px;
+}
+
+.my-font-12 {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.my-transform-45 {
+  transform: rotate(-45deg);
+}
+
+.my-title {
+  margin: 30px 0 15px 0 !important;
+}
+
+.my-font-24 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.my-p-t-63 {
+  padding-top: 63px;
+}
+
+.my-p-b-63 {
+  padding-bottom: 63px;
+}
